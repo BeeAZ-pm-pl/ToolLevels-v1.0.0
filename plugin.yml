@@ -1,0 +1,11 @@
+name: ToolLevels
+main: NoobMCBG\ToolLevels\Main
+api: 3.0.0
+version: 1.0.0
+author: NoobMCBG
+description: LOL
+
+commands:
+  toollevel:
+    description: Lệnh Để Mở Menu ToolLevels
+    aliases: [dungcu, tool]
